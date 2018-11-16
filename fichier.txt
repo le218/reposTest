@@ -1,1 +1,3 @@
 je suis un simple fichier texte qui perte de faire des testes sur l'utilisaton de git.
+Si tu pense que c'est fini alors tu te fou vraiment le doigt dans l'oeil.
+je ne fais que commencé dans ce serie de teste
